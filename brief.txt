@@ -1,0 +1,24 @@
+Sites de referência:
+
+ - https://colorlib.com/wp/template/digilab/
+ - https://colorlib.com/wp/template/beckham/
+ - https://colorlib.com/wp/template/photosen/
+
+ idea: 
+ - Título: Beling PE.
+ - Público alvo: Empresas e contratantes.
+ - finalidade: Demonstrar minhas habilidades e servir de portifólio
+ - referências visuais: #simple #modern #youtube
+ - cores: Vemerlho e Preto
+
+    Cor 1: Vermelho
+    Cor 2: Preto
+	
+
+ - Wireframe e rascunhos do site: Papel e Caneta
+
+- Textos:
+   Intro: Bem Vindo! O meu nome é Pedro Beling, estudo desenvolvimento web, aqui apresento alguns projetos e exponho meu curriculo.
+
+   Currículo: Conhecimento basico de excel, word, photoshop, C#, edição de vídeo, e dominio de search engine optimization. Língua: ingles anavçado
+   
